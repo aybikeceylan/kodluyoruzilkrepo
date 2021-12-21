@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-kodluyoruz eğitimi kapsamında açtığım ilk repo
+![ kodluyoruz resim](C:\Users\rosa\Documents\github repo\kodluyoruzilkrepo\images\plane.jpg)
