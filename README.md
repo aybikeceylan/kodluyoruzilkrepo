@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-![kodluyoruz resim](C:\Users\rosa\Documents\github repo\kodluyoruzilkrepo\images\kodluyoruz.png)
+![kodluyoruz resim](https://picsum.photos/200/300)
