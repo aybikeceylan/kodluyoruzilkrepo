@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-![ kodluyoruz resim](C:\Users\rosa\Documents\github repo\kodluyoruzilkrepo\images\plane.jpg)
+![kodluyoruz resim](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKodluyoruz&psig=AOvVaw1xVz_tRHYQdmOjCbVaiLgz&ust=1640205069824000&source=images&cd=vfe&ved=2ahUKEwjIptGV3vX0AhWDhv0HHQDzDMsQr4kDegUIARCfAQ)
